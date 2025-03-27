@@ -1,0 +1,10 @@
+channels:
+    - conda-forge
+
+env_dirs:
+    - ~/.local/share/python/micromamba/envs
+pkgs_dirs:
+    - ~/.local/share/python/micromamba/pkgs
+
+show_channel_urls: true
+always_yes: true
